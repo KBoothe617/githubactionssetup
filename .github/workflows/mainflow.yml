@@ -1,7 +1,7 @@
 name: mainflow
 
 env:
-  deploy_url: ${{ secrets.RENDER_DEPLOY_HOOK_URL }}
+  deploy_url: https://githubactionssetup.onrender.com
 
 
 on:
